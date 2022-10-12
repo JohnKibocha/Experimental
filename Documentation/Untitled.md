@@ -1,4 +1,4 @@
-<img src = "C:/Users/John Kibocha/Pictures/Saved Pictures/Profile Photo.jpg" alt= "New Image"/>
+<img src = "C:/Users/John Kibocha/Pictures/Saved Pictures/Profile Photo.jpg"/>
 
 
 Another change occurs here
